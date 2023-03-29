@@ -22,7 +22,7 @@ To run the project, you will need:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/kamal98ETH/hardhat-fundContract`
+1. Clone the repository: `git clone https://github.com/kamal98ETH/hardhat-fundContract.git`
 2. Install dependencies: `npm install`
 3. Create a .env file and set the following variables:
     - `SEPOLIA_RPC_URL`: your Alchemy or infura API key
