@@ -1,10 +1,6 @@
 # Crowdfunding Smart Contract
 
-This project is a tutorial on how to create a crowdfunding smart contract using Solidity and Hardhat. The tutorial was created by [insert name of tutorial creator] and can be found [insert link to tutorial].
-
-## Overview
-
-The crowdfunding smart contract allows users to create a campaign and specify a funding goal and deadline. Users can then contribute to the campaign and, if the funding goal is reached before the deadline, the creator can withdraw the funds to their account. If the funding goal is not reached by the deadline, the contributions are returned to the contributors.
+This project is a tutorial on how to create a crowdfunding smart contract using Solidity and Hardhat. The tutorial was created by [Patrick Collins](https://github.com/PatrickAlphaC) and [freeCodeCamp](https://www.freecodecamp.org/) and can be found [here](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-7-hardhat-fund-me).
 
 ## Features
 
@@ -26,7 +22,7 @@ To run the project, you will need:
 
 ## Installation
 
-1. Clone the repository: `git clone [insert link to repository]`
+1. Clone the repository: `git clone https://github.com/kamal98ETH/hardhat-fundContract`
 2. Install dependencies: `npm install`
 3. Create a .env file and set the following variables:
     - `SEPOLIA_RPC_URL`: your Alchemy or infura API key
